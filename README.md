@@ -1,4 +1,4 @@
-# Indy Client    
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm# Indy Client    
 
 [![Build Status](https://jenkins.evernym.com/buildStatus/icon?job=Sovrin%20Client/master)](https://jenkins.evernym.com/job/Sovrin%20Client/job/master/)    
 
@@ -13,9 +13,8 @@ understand how Indy works, starting there may be better.
 
 All bugs, backlog, and stories for Indy (except the SDK) are managed in [Hyperledger's Jira](https://jira.hyperledger.org); use project name INDY.
 
-Developers may want to explore Sovrin's [Getting Started Guide](https://github.com/sovrin-foundation/sovrin-client/blob/master/getting-started.md) to learn about how Indy works. (Sovrin is the public, open ecosystem
+Developers may want to explore Sovrin's [Getting Started Guide](https://github.com/hyperledger/indy-node/blob/master/getting-started.md) to learn about how Indy works. (Sovrin is the public, open ecosystem
 built on top of Indy technology; for more info, see [https://sovrin.org].)
 
 Have a look at [Setup Instructions](https://github.com/sovrin-foundation/sovrin-client/blob/master/setup.md)
 to understand how to work with the code. Note that setup instructions are still changing hour-by-hour as we identify install preconditions.
-

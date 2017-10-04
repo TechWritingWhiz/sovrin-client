@@ -1,3 +1,6 @@
+# NOTE: This version of the "Getting Started Guide" has been deprecated.
+### The correct version is located here: [Getting Started Guide](https://github.com/hyperledger/indy-node/blob/master/getting-started.md)
+
 # Getting Started with Sovrin
 
 ## A Developer Guide from the Sovrin Foundation
